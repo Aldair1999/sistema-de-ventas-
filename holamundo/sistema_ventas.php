@@ -1,6 +1,6 @@
 <html>
 <head> 
-<title> nuestro primer proyecto en php , css y javaScript</title>
+<title> nuestro primer proyecto en php java scrip de aldair , css y javaScript</title>
  </head>
  <body bgcolor="#5ff4ff"> 
  </body>
