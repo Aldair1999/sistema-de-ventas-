@@ -7,7 +7,7 @@ include("conec.php")
 
 
   <meta charset="utf-8">
-  <title>Nuestro primer proyecto en php, css y javaScript</title> 
+  <title>NUESTRO PRIMER PROYCETO en php, css y javaScript</title> 
    <style type="text/css">
    #titulo{
      text-align: center;
