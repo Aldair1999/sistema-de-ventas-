@@ -20,7 +20,7 @@ $check_mail=mysqli_num_rows($checkemail);
         }
         
     }else{
-        echo 'las contraseñas son incorrectas';
+        echo 'contraseñas incorrectas';
     }
 
 
